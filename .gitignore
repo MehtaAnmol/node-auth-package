@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+*.js.map
+*.tsbuildinfo
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and test output
+logs/
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+pids/
+logs/
+results/
+.nyc_output/
+.cache/
+yarn-error.log
+*.pnp.*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+yarn-error.log
+.pnp
+.pnp.js
+
+# dotenv environment variables file
+.env
+
+# NestJS
+/dist
